@@ -1,0 +1,2 @@
+# Pentia.Foundation.DynamicPlaceholderKeys
+The module enables both MVC and WebForms support natively, as well as programmatically connect a single Placeholder Setting Item to all instances of the named Dynamic Placeholder that appear on any page, regardless of quantity.
