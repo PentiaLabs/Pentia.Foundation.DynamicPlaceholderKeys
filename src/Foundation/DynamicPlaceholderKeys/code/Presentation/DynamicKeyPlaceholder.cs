@@ -34,7 +34,7 @@ using Sitecore.Web.UI.WebControls;
 
 #endregion
 
-[assembly: TagPrefix("PT.Framework.DynamicPlaceholderKeys.Presentation", "PT")]
+[assembly: TagPrefix("Pentia.Foundation.DynamicPlaceholderKeys.Presentation", "PT")]
 
 namespace Pentia.Foundation.DynamicPlaceholderKeys.Presentation
 {
