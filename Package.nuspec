@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Pentia.Foundation.DynamicPlaceholderKeys</id>
+    <version>1.0.0</version>
+    <authors>Pentia</authors>
+    <owners>pentia</owners>
+    <projectUrl>https://github.com/PentiaLabs/Pentia.Foundation.DynamicPlaceholderKeys</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Code for extending placeholders in sitecore to support dynamic keys</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Sitecore Pentia Placeholder Dynamic</tags>
+  </metadata>
+  <files>
+    <file src="src\bin\*.dll" target="lib" />
+    <file src="src\Foundation\DynamicPlaceholderKeys\code\App_Config\**" target="App_Config"/>
+  </files>
+</package>
